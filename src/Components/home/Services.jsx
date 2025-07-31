@@ -8,9 +8,10 @@ import porcelatoBg from '../../assets/productCardBg/porcelatoBg.jpg'
 import pineBg from '../../assets/productCardBg/pineBg.jpg'
 import hplBg from '../../assets/productCardBg/hplBg.jpg'
 
+
 function Services({ navbarRef }) {
   return (
-    <div className="relative h-[190vh] sm:h-[195vh] md:h-[120vh] lg:h-[120vh] xxs:h-[175vh] mt-20">
+    <div className="relative h-[270vh] xxxs:h-[240vh] sm:h-[250vh] md:h-[150vh] lg:h-[130vh] xxs:h-[210vh] mt-20">
       {/* Background Container */}
       <div className="relative w-full h-[40vh] min-h-[300px] sm:h-[50vh] lg:h-[60vh] ">
         {/* Background Image */}
