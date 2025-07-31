@@ -1,6 +1,6 @@
 import React from 'react';
 import footerBg from '../../assets/sectionBg/footerBg.jpg';
-import reznoLogo from '../../assets/reznoLogoWhite.png';
+import reznoLogo from '../../assets/ReznoLogoWhite.png';
 import InstagramIcon from '../../assets/links/instagram-svgrepo-com.svg?react';
 import LinkedinIcon from '../../assets/links/linkedin-svgrepo-com.svg?react';
 
