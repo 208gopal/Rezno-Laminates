@@ -7,7 +7,7 @@ import LinkedinIcon from '../../assets/links/linkedin-svgrepo-com.svg?react';
 
 function Team() {
   return (
-    <section className="text-black px-8 py-16 md:px-20 flex flex-col md:flex-row items-center justify-around">
+    <section className="text-black px-8 py-16 md:px-20 md:gap-6 flex flex-col md:flex-row items-center justify-evenly">
       {/* Left Section */}
       <div className="max-w-2xl mb-12 md:mb-0 text-left">
         <h2 className="text-5xl font-bold mb-6">CEO'S Message</h2>

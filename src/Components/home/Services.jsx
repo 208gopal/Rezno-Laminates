@@ -10,8 +10,7 @@ import hplBg from '../../assets/productCardBg/hplBg.jpg'
 
 function Services({ navbarRef }) {
   return (
-    // height is what makes it responsive
-    <div className="relative h-[170vh] sm:h-[195vh] md:h-[120vh] lg:h-[110vh] xl:h-[110vh] mt-20">
+    <div className="relative h-[190vh] sm:h-[195vh] md:h-[120vh] lg:h-[120vh] xxs:h-[175vh] mt-20">
       {/* Background Container */}
       <div className="relative w-full h-[40vh] min-h-[300px] sm:h-[50vh] lg:h-[60vh] ">
         {/* Background Image */}
